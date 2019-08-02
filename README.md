@@ -1,5 +1,5 @@
 # ClassRegistrationSystem
-The first project I'll build using PHP and MySQL
+The first project I build using PHP and MySQL
 
 simplewebcalculator
 

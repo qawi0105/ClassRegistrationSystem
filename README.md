@@ -10,12 +10,13 @@ Official website for this project: -
 Created By :
 
     Abdul Qawi
-    Created Date : 30/7/2019
+    Created Date : 2/8/2019
     Contact Me : https://www.facebook.com/qawi0105
 
 Changelogs
 
     UPDATE 1 : 2/8/2019 - Initial design
+    UPDATE 2 : 3/8/2019 - Add some javascript code, want the page to be more nice and interactive.
    
 
 Credit: 

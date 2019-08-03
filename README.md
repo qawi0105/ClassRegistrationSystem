@@ -31,8 +31,7 @@ Installation
 
 Usage
 
-    Select faculty or campus.
-    Select courses that you want the timetable to generate.
+    Fill in the form about the student information, and use that information to keep up with their current grade marks.
     (Optional) Change colour for the buttons.
 
 Contributing

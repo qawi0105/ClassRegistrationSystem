@@ -17,6 +17,7 @@ Changelogs
 
     UPDATE 1 : 2/8/2019 - Initial design
     UPDATE 2 : 3/8/2019 - Add some javascript code, want the page to be more nice and interactive.
+    UPDATE 3: 12/8/2019 - Fix the connection issues in mysqli_connect.php
    
 
 Credit: 
